@@ -32,9 +32,9 @@ mkdir UMS
 
 cd UMS
 
-git clone https://github.com/usmanasif/ums.git
+git clone https://github.com/naveedahamad/test-project.git
 
-cd ums
+cd test-project
 ```
 
 * Install Gems
@@ -99,4 +99,3 @@ rails test
 - User can search by name, email, status, last_updated, title using search bar above the table
 - User can switch to different pages using Page numbers buttons
 - User can sort the users being shown in the table view by clicking on the header of each column i.e. Click on `Name` will sort it in ascending order and if you click again on it, it will be sorted in descending order
-
